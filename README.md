@@ -16,4 +16,4 @@ Baixe instale e aproveite!
 
  `npm run eject`
 
- `npm run build` fails to minify
+ `npm run build` 
